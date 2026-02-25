@@ -111,7 +111,7 @@ Tower-of-Hanoi/
 
 Clone the repository:
 
-git clone https://github.com/your-username/tower-of-hanoi.git
+git clone https://github.com/karanjoshii/Tower-of-HAannoi.git
 
 Open index.html in your browser.
 
